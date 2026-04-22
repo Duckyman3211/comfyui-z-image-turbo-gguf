@@ -3,6 +3,10 @@ Use Z-Image Turbo (GGUF) in ComfyUI.
 This guide handles installing ComfyUI and configuring the workflow.
 Tested on Ubuntu Server LTS 24.04.4 with a i5-4590 and 12GB DDR3 and 16GB SWAP.
 
+## Why use GGUF
+<img width="921" height="291" alt="image" src="https://github.com/user-attachments/assets/f8d70489-6f8e-4f5d-a582-ab6a2a3845fa" />
+
+
 ## Install ComfyUI
 ComfyUI requires Python 3.12 or higher (Python 3.13 is recommended). Check your Python version:
 ``` bash
